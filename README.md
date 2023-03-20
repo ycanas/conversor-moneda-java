@@ -20,4 +20,4 @@ siguiente:
 ![GitHub Repo stars](https://img.shields.io/github/stars/ycanas/conversor-moneda-java?color=yellow&style=for-the-badge&labelColor=101010)
 ![GitHub Repo Followers](https://img.shields.io/github/followers/ycanas?style=for-the-badge&labelColor=101010)
 ![GitHub top language](https://img.shields.io/github/languages/top/ycanas/conversor-moneda-java?color=red&style=for-the-badge&labelColor=101010)
-[![Web](https://img.shields.io/badge/GitHub-ycanas-14a1f0?style=for-the-badge&logo=github&logoColor=white&labelColor=101010&color=009000)](https://github.com/mouredev)
+[![Web](https://img.shields.io/badge/GitHub-ycanas-14a1f0?style=for-the-badge&logo=github&logoColor=white&labelColor=101010&color=009000)](https://github.com/ycanas)
